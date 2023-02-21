@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c277113bc97e4824c8fb8870d5fdd686
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CW_SkyboxTex: {fileID: 8900000, guid: 3a3ae0138ec40d940b67b5adf2a9ee82, type: 3}
+  - _DetailTex: {instanceID: 0}
+  - _CW_DetailOffset: {fileID: 11700000, guid: f5ed7c9348ffda342bee93f46dd164c9, type: 2}
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
