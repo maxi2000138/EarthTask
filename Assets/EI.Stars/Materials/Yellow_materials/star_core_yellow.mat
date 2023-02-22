@@ -63,10 +63,10 @@ Material:
     m_Ints: []
     m_Floats:
     - Vector1_2E0A7B0E: 0.94
-    - Vector1_3AFEFF74: 200
+    - Vector1_3AFEFF74: 13.09
     - Vector1_43B35DE2: 14.9
     - Vector1_A3BB2BF3: 3.6
-    - Vector1_E0CA0833: 1.95
+    - Vector1_E0CA0833: 0.5
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
